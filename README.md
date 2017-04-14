@@ -2,7 +2,7 @@
 *Developed during WearHacks Waterloo*
 An android augmented reality application, which provides navigation directions and real-time position tracking viewable with and without AR headsets.
 You can enter a location, the directions will be displayed step-by-step on the camera's video feed, with a pointer to the next step.
-A few screenshots are shown below:
+A few screenshots are shown below (sorry for the bad quality, I blame the screen recorder):
 ![Main screen](Screenshots/main_screen.png "Main screen")
 ![On the road](Screenshots/navigation.png "On the road")
 
