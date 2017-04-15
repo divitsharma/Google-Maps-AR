@@ -1,5 +1,5 @@
 # Google-Maps-AR
-*Developed during WearHacks Waterloo* <br />
+### A WearHacks Waterloo Project
 An android augmented reality application, which provides navigation directions and real-time position tracking viewable with and without AR headsets. <br />
 You can enter a location, the directions will be displayed step-by-step on the camera's video feed, with a pointer to the next step.
 A few screenshots are shown below (sorry for the bad quality, I blame the screen recorder):
