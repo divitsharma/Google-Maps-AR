@@ -1,7 +1,8 @@
 # Google-Maps-AR
 ### A WearHacks Waterloo Project
 An android augmented reality application, which provides navigation directions and real-time position tracking viewable with and without AR headsets. <br />
-You can enter a location, the directions will be displayed step-by-step on the camera's video feed, with a pointer to the next step.
+You can enter a location, the directions will be displayed step-by-step on the camera's video feed, with a pointer to the next step.<br />
+The view is also compatible with an AR headset, by using Vuforia, an AR extension for Unity, and it can be toggled under Vuforia settings in Unity.<br />
 A few screenshots are shown below (sorry for the bad quality, I blame the screen recorder):
 
 
